@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "com.vela.waterworld",
+    "restype": "quick_app",
+    "name": "疯狂水世界·简配版",
+    "description": "风暴过后，你抱着一块木筏漂在海上。\n点屏幕放下吊钩，捞起漂浮的垃圾换分，凑够当天的目标，一路撑到上岸。\n\n玩法与特色\n\n· 60 秒一局：点屏幕下钩，钩到自动收线\n· 8 章剧情 + 漂流日记：通关解锁「无尽模式」\n· 每天随机海域：鱼群 / 宝箱潮 / 暴风雨 / 鲨影\n· 8 种补给三选一：金币商店可做永久强化\n· 鲨鱼会来抢食：钩到扣一颗心\n· 自动存档：进度、金币、最高天数自动保存",
+    "preview": [
+      "media/103322.jpg",
+      "media/103321.jpg",
+      "media/103323.jpg"
+    ],
+    "icon": "media/103320.png",
+    "cover": "media/103319.png",
+    "author": [
+      {
+        "name": "maniubo",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb11": {
+      "version": "1.2.2",
+      "file_name": "downloads/com.vela.waterworld.release.1.2.2.rpk",
+      "versionCode": 5,
+      "updatelogs": [
+        {
+          "version": "1.2.2",
+          "content": "## 1.2.2\n\n**修复**\n- 钩子落空后停在底部不回收，现在会立刻自动收线，落空也能马上再抛\n- 右侧偶发黑边：背景图加宽铺满，页面底色兜底\n\n**优化**\n- 顶部信息精简：去掉和分数重复的进度条，连击提示挪到左上角\n- 全部小字放大一档：商店描述、海域说明、结算日记、按钮文字\n- 商店行高、补给卡、按钮同步加大，避免文字挤在一起"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
